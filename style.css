@@ -1,10 +1,3 @@
 body{
-    background-color: rgb(3, 1, 43);
-    color: rgb(166, 210, 243);
-}
-
-#camera{
-    border: 10px solid azure;
-    
-    
+    background-color: aqua;
 }
